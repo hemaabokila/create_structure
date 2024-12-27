@@ -12,6 +12,9 @@ With this tool, you can easily:
 - Generate a project structure with folders and files.
 - Automatically create Python class files with a basic class template.
 - Generate `__init__.py` files that import classes for easier module management.
+- Creating a `setup.py` file.
+- Creating a `README.md` file.
+- Creating a `LICENSE` file.
 
 ---
 
@@ -20,6 +23,7 @@ With this tool, you can easily:
 - **Flexible Input:** Provide a text file that outlines the structure of your project.
 - **Automatic Class Creation:** Automatically creates Python class templates in `.py` files.
 - **Init File Generation:** Automatically generates `__init__.py` files for importing modules.
+- **Setup File Generation:** Automatically generates `setup.py` file, The file is generated with ready-to-use content for installation.
 - **Cross-Platform:** Works on Windows, Linux, and macOS.
 
 ---
@@ -54,8 +58,6 @@ src/
 tests/
     test_main.py
     test_utils.py
-README.md
-LICENSE
 ```
 2-  Run the command:
 ```bash
@@ -72,6 +74,7 @@ ceartes structure.txt
 │   ├── test_utils.py
 │   └── __init__.py
 ├── README.md
+├── setup.py
 └── LICENSE
 ```
 ## Arguments
