@@ -40,7 +40,7 @@ python install .
 ```
 ### From PyPI (Coming Soon):
 ```python
-pip install create_structure
+pip install create_struc
 ```
 ## Usage
 After installing the tool, you can run it directly from the command line.
