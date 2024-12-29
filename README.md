@@ -38,7 +38,7 @@ git clone https://github.com/hemaabokila/create_structure.git
 cd create_structure
 python install .
 ```
-### From PyPI (Coming Soon):
+### From PyPI:
 ```python
 pip install create_struc
 ```
