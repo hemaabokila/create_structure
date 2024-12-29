@@ -8,7 +8,7 @@ except FileNotFoundError:
 
 setup(
     name="create_structure",
-    version="1.0.0",
+    version="1.0.2",
     author="Ibrahem abo kila",
     author_email="ibrahemabokila@gmail.com",
     description="A simple Create Structure tool.",
